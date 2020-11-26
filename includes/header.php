@@ -9,14 +9,6 @@
 </head>
 <body>
 
-
-
-<!--
-  <header class="header">
-      <a href="">My Media</a>
-  </header>
--->
-  
   <nav class="menu">
     
     <a href="index.php">Home</a> 
@@ -26,8 +18,3 @@
       
   </nav>
   
-<!--
-  <aside>
-      <h1>Side Bar</h1>
-  </aside>
--->
